@@ -91,7 +91,6 @@ input[type="submit"]:hover {
     from {
         left: 0;
     }
-
     to {
         left: 100px;
     }
